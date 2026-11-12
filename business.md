@@ -485,6 +485,6 @@ Wait for approval or corrections. If they want changes, make them and show the u
 
 | Date | Changes |
 |---|---|
-| 2026-08-19 | Sanitized and republished under NiteOps brand |
+| 2026-08-19 | Sanitized and republished |
 | 2026-03-30 | v2: Complete rewrite. Expanded from 5 phases to 7. Added new sections: Vision, Mission, Beliefs, The Enemy, Three-layer Problem, expanded Competition with Perplexity MCP research, Price Rationale, Offer Details expanded, Positioning Statement. Added Perplexity MCP integration for competitor research. Added detectors: vision detector, platitude detector, enemy detector. Added edge cases: can't name competitors, generic vision, platitude beliefs, can't name enemy, MCP unavailable. |
 | 2026-03-30 | v1: Initial 5-phase Socratic interview. 12-section output. No MCP. |
