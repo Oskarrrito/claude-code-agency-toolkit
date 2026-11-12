@@ -4,7 +4,7 @@ Claude Code skills I run my automation business on. Every skill in this repo is 
 
 ## About
 
-I'm Oskar. I run NiteOps out of Dublin. NiteOps is my automation partner brand for agencies. I ship the same MCP + Claude Code stack I use for my own outbound, delivery, and YouTube pipeline. These 28 skills are the operator manual behind that work.
+I'm Oskar. I run a one person automation business out of Dublin. I ship the same MCP + Claude Code stack I use for my own outbound, delivery, and YouTube pipeline. These 28 skills are the operator manual behind that work.
 
 ## Tech stack
 
